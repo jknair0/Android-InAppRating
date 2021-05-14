@@ -1,0 +1,3 @@
+rootProject.name = "In App Review"
+include ':app'
+include ':inapprating'
